@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.MuiBox-root header.css-19z1ozs-MuiPaper-root-MuiAppBar-root, .MuiBox-root header.css-1191obr-MuiPaper-root-MuiAppBar-root{
+  background-color: #edeceb!important;
+}
+
+.css-p55zm9-MuiButtonBase-root-MuiIconButton-root{
+  color: rgba(0, 0, 0, 0.54)!important;
+  margin-left:24px!important;
+  margin-bottom:12px!important;
+}
+
+.header-logo{
+  margin-top:12px;
+}
+
+.css-1hsz34s-MuiDrawer-docked .MuiDrawer-paper, .css-2dum1v-MuiDrawer-docked .MuiDrawer-paper, .MuiSvgIcon-root{
+  background-color:#f36324;
+  color:White;
+}
+
+.MuiListItemText-root{
+  margin-left:12px;
+}
+
+.text-link{
+  text-decoration:none;
+  color:white;
+}
